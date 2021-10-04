@@ -8,6 +8,7 @@ A basic Ionic client web application which consumes the RestAPI Backend.
 2. [The RestAPI Backend](https://github.com/udacity/cloud-developer/tree/master/course-02/exercises/udacity-c2-restapi), a Node-Express server which can be deployed to a cloud service.
 3. The Image Filtering Microservice, the focus of this repo. It is a Node-Express application which runs a simple script to process images.
 
+The source code for this project is available on [Github]( https://github.com/funspectre/sigmage-filter ).
 You may access a live version of the service at [this URL]( http://sigmage-filter-dev.eba-g4xd2v6p.us-east-1.elasticbeanstalk.com ).
 
 ## Setup Development Environment
